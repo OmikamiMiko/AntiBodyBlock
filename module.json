@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": false,
+    "name": "ABB",
+    "author": "KYGAS / Maintainer Miko",
+    "description": "A tera-proxy module that prevents you from getting body blocked by pt.",
+    "version": "1.2.6",
+    "options": {
+        "niceName": "Anti Body Block",
+        "guiName": "ABB"
+    },
+    "servers": ["https://raw.githubusercontent.com/OmikamiMiko/AntiBodyBlock/main/"],
+    "supportUrl": "https://github.com/OmikamiMiko/AntiBodyBlock/issues"
+}

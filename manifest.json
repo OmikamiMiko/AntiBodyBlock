@@ -1,0 +1,11 @@
+{
+    "files": {
+        "README.md": "1becfe784c61c50d2f1f67daf5815fbb6c6bb8b2cb93e2c43e647501afccda7d",
+        "index.js": "8151391d8e4abe3dd9ebc32170cd145a7dc6e4b2a525096ed6a2c78b3bb498bd",
+        "module.json": "7e6f9ce380d70387cfd6dd7e7b26c8f1c1be8c6e377e3e8a8391fea48dd52b5e"
+    },
+    "defs": {
+        "S_PARTY_INFO": 1,
+        "S_PARTY_MEMBER_LIST": 7
+    }
+}
